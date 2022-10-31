@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+spotify client ID
+ca1a1edadce0467faf34873d6110151c
+
+time:
+1:18
+2:15
+3:05
+
+https://github.com/jmperez/spotify-web-api-js
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
